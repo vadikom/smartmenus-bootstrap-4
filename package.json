@@ -1,5 +1,5 @@
 {
-  "name": "smartmenus-bootstrap",
+  "name": "smartmenus-bootstrap-4",
   "title": "SmartMenus jQuery Plugin Bootstrap 4 Addon",
   "description": "Provides support for creating zero config advanced Bootstrap 4 navbars with the SmartMenus jQuery plugin (smartmenus).",
   "keywords": [
@@ -13,7 +13,7 @@
     "bootstrap",
     "ecosystem:jquery"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "jquery.smartmenus.bootstrap-4.js",
   "author": {
     "name": "Vasil Dinkov",
